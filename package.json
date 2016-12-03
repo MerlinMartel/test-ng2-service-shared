@@ -1,6 +1,6 @@
 {
   "name": "test-ng2-service-shared",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "",
   "main": "dist/spdata.service.js",
   "scripts": {
