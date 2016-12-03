@@ -1,17 +1,16 @@
 {
   "compilerOptions": {
-    "declaration": true,
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "module": "commonjs",
     "moduleResolution": "node",
-    "noEmitHelpers": true,
     "noFallthroughCasesInSwitch": true,
     "noImplicitAny": true,
     "outDir": "../dist",
     "removeComments": false,
     "sourceMap": true,
     "target": "es5",
+    "declaration": true,
     "typeRoots": [
       "../node_modules/@types"
     ]

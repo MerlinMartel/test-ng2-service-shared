@@ -1,0 +1,4 @@
+removed because error : http://stackoverflow.com/questions/36808303/webpackangular2-error-uncaught-referenceerror-decorate-is-not-defined
+
+    "declaration": true,
+        "noEmitHelpers": true,

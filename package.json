@@ -4,6 +4,7 @@
   "description": "",
   "main": "dist/spdata.service.js",
   "scripts": {
+    "watch": "tsc -p src -w",
     "prepublish": "tsc -p src"
   },
   "repository": {
