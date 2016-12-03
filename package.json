@@ -2,7 +2,7 @@
   "name": "test-ng2-service-shared",
   "version": "0.0.5",
   "description": "",
-  "main": "src/index.ts",
+  "main": "dist/spdata.service.js",
   "scripts": {
     "prepublish": "tsc"
   },
