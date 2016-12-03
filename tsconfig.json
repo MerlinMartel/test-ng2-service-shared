@@ -14,9 +14,7 @@
     "target": "es5"
   },
   "types": [
-    "core-js",
-    "lodash",
-    "sharepoint"
+    "core-js"
   ],
   "files": [
     "src/spdata.service.ts"
