@@ -8,7 +8,7 @@
     "noEmitHelpers": true,
     "noFallthroughCasesInSwitch": true,
     "noImplicitAny": true,
-    "outDir": "dist",
+    "outDir": "../dist",
     "removeComments": false,
     "sourceMap": true,
     "target": "es5"

@@ -1,11 +1,10 @@
 {
   "name": "test-ng2-service-shared",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "main": "src/index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "rm -rf lib && tsc -p src"
+    "prepublish": "tsc"
   },
   "repository": {
     "type": "git",
@@ -21,5 +20,6 @@
     "lodash": "^4.17.2",
     "sp-pnp-js": "^1.0.6",
     "typescript": "^2.0.10"
-  }
+  },
+  "typings": "./ng2-translate.d.ts"
 }
