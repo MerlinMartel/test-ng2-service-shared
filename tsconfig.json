@@ -8,7 +8,7 @@
     "noEmitHelpers": true,
     "noFallthroughCasesInSwitch": true,
     "noImplicitAny": true,
-    "outDir": "../dist",
+    "outDir": "dist",
     "removeComments": false,
     "sourceMap": true,
     "target": "es5"
@@ -17,6 +17,9 @@
     "core-js",
     "lodash",
     "sharepoint"
+  ],
+  "files": [
+    "src/spdata.service.ts"
   ],
   "exclude": [
     "node_modules",

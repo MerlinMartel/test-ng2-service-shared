@@ -1,3 +1,7 @@
+# Ignored files
+*.ts
+!*.d.ts
+
 # Logs
 logs
 *.log
